@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "343141460602",
+    "firebase_url": "https://flash-chat-5e71f.firebaseio.com",
+    "project_id": "flash-chat-5e71f",
+    "storage_bucket": "flash-chat-5e71f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343141460602:android:f0400441d74c9855",
+        "android_client_info": {
+          "package_name": "io.github.shivams112.echat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343141460602-j077bspg27votrndegdffmi39ltfelkf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.shivams112.echat",
+            "certificate_hash": "d1afb9a55e1785d1fa7efbd15706b5d2a44434d5"
+          }
+        },
+        {
+          "client_id": "343141460602-dmjphlgo05ulmnb248uo4t78oainre4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTlkOrY7nGmRPUfC-NGGh60lujiq1CBOQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343141460602-dmjphlgo05ulmnb248uo4t78oainre4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
